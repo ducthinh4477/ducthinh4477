@@ -11,9 +11,9 @@
 
 <br/><br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ducthinh4477&show_icons=true&theme=tokyonight&hide_border=true&v=2)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducthinh4477&layout=compact&theme=tokyonight&hide_border=true&v=2)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ducthinh4477&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="ducthinh4477 trophies" />
+</a>
 
 <br/>
 
@@ -25,6 +25,6 @@
 
 <br/>
 
-![Visitor Count](https://profile-counter.glitch.me/ducthinh4477/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=ducthinh4477&style=flat-square&color=blue)
 
 </div>

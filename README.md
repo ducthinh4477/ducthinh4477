@@ -8,7 +8,7 @@
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/ducthinh4477/ducthinh4477/blob/output/github-snake-dark.svg)
+  ![snake gif](https://raw.githubusercontent.com/ducthinh4477/ducthinh4477/output/github-snake-dark.svg)
 </div>
 
 <!-- Visit Counter -->

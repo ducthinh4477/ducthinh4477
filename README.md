@@ -1,9 +1,14 @@
-## ✨ GitHub Contribution
-<div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vudovn/vudovn/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vudovn/vudovn/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vudovn/vudovn/output/github-contribution-grid-snake.svg">
-</picture>
+## 🌐 Connect with Me 🍬
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/17qomAbfaB/) 
+
 </div>
----
+
+
+
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/ducthinh4477/ducthinh4477/blob/output/github-snake-dark.svg)
+</div>
+
+

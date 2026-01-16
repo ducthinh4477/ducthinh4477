@@ -11,9 +11,9 @@
 
 <br/><br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ducthinh4477&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ducthinh4477&show_icons=true&theme=tokyonight&hide_border=true&v=2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducthinh4477&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducthinh4477&layout=compact&theme=tokyonight&hide_border=true&v=2)
 
 <br/>
 
@@ -25,6 +25,6 @@
 
 <br/>
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=ducthinh4477&icon=10&color=6)
+![Visitor Count](https://profile-counter.glitch.me/ducthinh4477/count.svg)
 
 </div>

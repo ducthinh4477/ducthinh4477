@@ -11,4 +11,8 @@
   ![snake gif](https://github.com/ducthinh4477/ducthinh4477/blob/output/github-snake-dark.svg)
 </div>
 
-
+<!-- Visit Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=ducthinh4477&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>

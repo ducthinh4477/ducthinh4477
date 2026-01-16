@@ -11,9 +11,13 @@
 
 <br/><br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ducthinh4477&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="ducthinh4477 trophies" />
-</a>
+<img src="https://raw.githubusercontent.com/ducthinh4477/ducthinh4477/main/profile-summary-card-output/default/0-profile-details.svg" width="100%" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ducthinh4477/ducthinh4477/main/profile-summary-card-output/default/1-repos-per-language.svg" height="160" />
+<img src="https://raw.githubusercontent.com/ducthinh4477/ducthinh4477/main/profile-summary-card-output/default/2-most-commit-language.svg" height="160" />
+<img src="https://raw.githubusercontent.com/ducthinh4477/ducthinh4477/main/profile-summary-card-output/default/3-stats.svg" height="160" />
 
 <br/>
 

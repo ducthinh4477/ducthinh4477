@@ -6,34 +6,25 @@
 
 <br/>
 
-<a href="https://www.facebook.com/share/17qomAbfaB/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="https://github.com/ducthinh4477" target="_blank">
-  <img src="https://img.shields.io/github/followers/ducthinh4477?label=Follow&style=social" alt="Follow"/>
-</a>
+<a href="https://www.facebook.com/share/17qomAbfaB/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://github.com/ducthinh4477" target="_blank"><img src="https://img.shields.io/github/followers/ducthinh4477?label=Follow&style=social" alt="Follow"/></a>
 
-<br/> <br/>
+<br/><br/>
 
-<a href="https://github.com/ducthinh4477">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ducthinh4477&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ducthinh4477">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducthinh4477&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ducthinh4477&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducthinh4477&layout=compact&theme=tokyonight&hide_border=true)
 
 <br/>
 
-<a href="https://github.com/ducthinh4477">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ducthinh4477&theme=tokyonight&hide_border=true" />
-</a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ducthinh4477&theme=tokyonight&hide_border=true)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ducthinh4477/ducthinh4477/output/github-snake-dark.svg" alt="Snake Animation" />
+![Snake Animation](https://raw.githubusercontent.com/ducthinh4477/ducthinh4477/output/github-snake-dark.svg)
 
 <br/>
 
-<img src="https://visitcount.itsvg.in/api?id=ducthinh4477&icon=10&color=6" />
+![Visitor Count](https://visitcount.itsvg.in/api?id=ducthinh4477&icon=10&color=6)
 
 </div>
